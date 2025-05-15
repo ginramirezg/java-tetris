@@ -1,3 +1,8 @@
+# Proyecto Tetris en Java
+
+Implementación del clásico juego Tetris en Java utilizando programación orientada a objetos y Swing para la interfaz gráfica.
+
+
 ## Estructura de Clases
 
 ```mermaid
